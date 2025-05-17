@@ -1,0 +1,6 @@
+ git clone https://github.com/nayra181/nayra181.github.io
+cd nayra181.github.io
+ echo pagina_nayra> index.html
+ git add --all
+ git commit -m "Confirmación inicial"
+ git push -u origin main
